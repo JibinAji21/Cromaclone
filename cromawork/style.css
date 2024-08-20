@@ -8,3 +8,17 @@
     color:black;
     background-color:rgb(52, 234, 174);
 }
+
+.links{
+    list-style-type: none;
+   
+}
+.atag{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+.atag:hover{
+    color: rgb(52, 234, 174);
+
+}
